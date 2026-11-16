@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "serviceId": 1,
+    "specialistId": 1,
+    "date": "2026-11-16",
+    "timeSlot": "10:00 AM",
+    "status": "Confirmed",
+    "clientName": "Ali Raza",
+    "phone": "03001234567",
+    "email": "ali@example.com",
+    "notes": "Regular checkup"
+  },
+  {
+    "id": 2,
+    "serviceId": 3,
+    "specialistId": 3,
+    "date": "2026-11-16",
+    "timeSlot": "11:00 AM",
+    "status": "Pending",
+    "clientName": "Sara Noor",
+    "phone": "03111234567",
+    "email": "sara@example.com",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "serviceId": 6,
+    "specialistId": 6,
+    "date": "2026-11-10",
+    "timeSlot": "02:00 PM",
+    "status": "Completed",
+    "clientName": "Ali Raza",
+    "phone": "03001234567",
+    "email": "ali@example.com",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "serviceId": 5,
+    "specialistId": 5,
+    "date": "2026-11-17",
+    "timeSlot": "09:30 AM",
+    "status": "Cancelled",
+    "clientName": "Ali Raza",
+    "phone": "03001234567",
+    "email": "ali@example.com",
+    "notes": "Rescheduling later"
+  }
+]

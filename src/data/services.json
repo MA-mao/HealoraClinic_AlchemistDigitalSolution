@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "General Checkup", "category": "General", "duration": 30, "fee": 1500, "image": "general" },
+  { "id": 2, "title": "Fever & Flu Consultation", "category": "General", "duration": 20, "fee": 1200, "image": "fever-flu" },
+  { "id": 3, "title": "Teeth Cleaning", "category": "Dental", "duration": 45, "fee": 3000, "image": "dental" },
+  { "id": 4, "title": "Root Canal Consultation", "category": "Dental", "duration": 40, "fee": 2500, "image": "root-canal" },
+  { "id": 5, "title": "Acne & Skin Treatment", "category": "Skin", "duration": 30, "fee": 2500, "image": "skin" },
+  { "id": 6, "title": "Eye Examination", "category": "Eye", "duration": 30, "fee": 2000, "image": "eye" },
+  { "id": 7, "title": "Child Wellness Visit", "category": "Child Care", "duration": 30, "fee": 1800, "image": "child-care" },
+  { "id": 8, "title": "Stress & Anxiety Counseling", "category": "Mental Health", "duration": 60, "fee": 4000, "image": "mental-health" }
+]

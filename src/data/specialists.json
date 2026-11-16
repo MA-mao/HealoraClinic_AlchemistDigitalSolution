@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Dr. Ayesha Khan", "specialty": "General", "experience": 10, "rating": 4.8, "availableDays": ["Mon", "Tue", "Wed", "Thu"] },
+  { "id": 2, "name": "Dr. Bilal Ahmed", "specialty": "General", "experience": 6, "rating": 4.5, "availableDays": ["Wed", "Thu", "Fri", "Sat"] },
+  { "id": 3, "name": "Dr. Sana Malik", "specialty": "Dental", "experience": 8, "rating": 4.9, "availableDays": ["Mon", "Wed", "Fri"] },
+  { "id": 4, "name": "Dr. Usman Tariq", "specialty": "Dental", "experience": 12, "rating": 4.7, "availableDays": ["Tue", "Thu", "Sat"] },
+  { "id": 5, "name": "Dr. Hira Siddiqui", "specialty": "Skin", "experience": 7, "rating": 4.6, "availableDays": ["Mon", "Tue", "Fri"] },
+  { "id": 6, "name": "Dr. Kamran Ali", "specialty": "Eye", "experience": 15, "rating": 4.9, "availableDays": ["Tue", "Wed", "Thu"] },
+  { "id": 7, "name": "Dr. Maryam Raza", "specialty": "Child Care", "experience": 9, "rating": 4.8, "availableDays": ["Mon", "Wed", "Sat"] },
+  { "id": 8, "name": "Dr. Zain Abbas", "specialty": "Mental Health", "experience": 11, "rating": 4.7, "availableDays": ["Mon", "Thu", "Fri"] }
+]

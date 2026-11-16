@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Raza",
+    "rating": 5,
+    "comment": "Booking took less than a minute and the doctor was on time. Very smooth experience.",
+    "date": "2026-11-02",
+    "photo": "patient-1"
+  },
+  {
+    "id": 2,
+    "name": "Sara Noor",
+    "rating": 5,
+    "comment": "I loved that I could see the available slots before choosing. Rescheduling was easy too.",
+    "date": "2026-10-28",
+    "photo": "patient-2"
+  },
+  {
+    "id": 3,
+    "name": "Hamza Sheikh",
+    "rating": 4,
+    "comment": "Professional staff and a clean clinic. The online slip saved me a lot of waiting time.",
+    "date": "2026-10-21",
+    "photo": "patient-3"
+  },
+  {
+    "id": 4,
+    "name": "Fatima Zahra",
+    "rating": 5,
+    "comment": "My child's checkup was handled with real care. Highly recommended for families.",
+    "date": "2026-10-15",
+    "photo": "patient-4"
+  }
+]
