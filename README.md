@@ -2,7 +2,7 @@
 
 A modern, responsive **Appointment & Consultation Booking Platform** for a clinic, built as a single-page React application. Users can explore services, browse specialists, book appointments through a step-by-step modal, and manage their bookings. The project is frontend-only and uses structured mock JSON data with `localStorage` persistence.
 
-**Live Demo:** https://your-project.vercel.app
+**Live Demo:** https://healora-clinic-alchemist-digital-so.vercel.app/
 
 ## Features
 
